@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maxemilian</h1>
 <h3 align="center">A fullstack developer from Finland!</h3>
 
-<p align="left"> <a href="https://twitter.com/maxemiliang" target="blank"><img src="https://img.shields.io/twitter/follow/maxemiliang?logo=twitter&style=for-the-badge" alt="maxemiliang" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://gronblom.dev](https://gronblom.dev)
 
 - 📫 How to reach me **maxemilian@gronblom.dev**
