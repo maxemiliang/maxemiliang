@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxemilian</h1>
 <h3 align="center">A fullstack developer from Finland!</h3>
 
-- 👨‍💻 All of my projects are available at [https://gronblom.dev](https://gronblom.dev)
+- 👨‍💻 My portfolio is available at [https://gronblom.dev](https://gronblom.dev)
 
 - 📫 How to reach me **maxemilian@gronblom.dev**
 
