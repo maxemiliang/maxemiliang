@@ -7,10 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://bsky.app/profile/gronblom.dev">
+  <a href="https://bsky.app/profile/gronblom.dev" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/Bluesky-blue?style=for-the-badge&logo=bluesky&logoColor=white&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fgronblom.dev">
   </a>
-  <a href="https://linkedin.com/in/maxemiliangroenblom">
+  <a href="https://linkedin.com/in/maxemiliangroenblom" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&link=https%3A%2F%2Flinkedin.com%2Fin%2Fmaxemiliangroenblom">
   </a>
 </p>
