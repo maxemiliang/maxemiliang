@@ -7,8 +7,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img alt="Static Badge" src="https://img.shields.io/badge/Bluesky-blue?style=for-the-badge&logo=bluesky&logoColor=white&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fgronblom.dev">
-<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&link=https%3A%2F%2Flinkedin.com%2Fin%2Fmaxemiliangroenblom">
+  <a href="https://bsky.app/profile/gronblom.dev">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Bluesky-blue?style=for-the-badge&logo=bluesky&logoColor=white&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fgronblom.dev">
+  </a>
+  <a href="https://linkedin.com/in/maxemiliangroenblom">
+    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&link=https%3A%2F%2Flinkedin.com%2Fin%2Fmaxemiliangroenblom">
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
